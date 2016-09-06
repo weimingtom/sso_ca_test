@@ -12,6 +12,10 @@ Testing How to write cookie to CA server domain and read from CA server domain
 
 http://www.app1.com:81/get.php
 http://www.app1.com:81/login_ca.php
+http://www.app1.com:81/get.php
+http://www.app1.com:81/index.php
+http://www.app2.com:81/get.php
+http://www.app2.com:81/index.php
 
 4. see:
 http://www.jb51.net/article/40845.htm
